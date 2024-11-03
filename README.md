@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinomanoharan
-- 👀 I’m interested in Cloud Native, Web Development and Azure.
-- 🌱 I’m currently learning k8s
+- 👀 I’m interested in Full Stack and Cloud Native Development
+- 🌱 I’m currently learning cloud native and full stack development
 - 💞️ I’m looking to collaborate on freelance projects
 - 📫 How to reach me http://linkedin.com/in/vinomanoharan ...
 
