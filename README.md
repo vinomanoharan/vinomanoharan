@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinomanoharan
-- 👀 I’m interested in Full Stack and Cloud Native Development
-- 🌱 I’m currently learning cloud native and full stack development
+- 👀 I’m interested in Cloud Native Full Stack Development
+- 🌱 I’m currently learning Gen AI
 - 💞️ I’m looking to collaborate on freelance projects
 - 📫 How to reach me http://linkedin.com/in/vinomanoharan ...
 
